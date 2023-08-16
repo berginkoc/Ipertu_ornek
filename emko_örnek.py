@@ -1,3 +1,5 @@
+#Modbus TCP/IP için gerekli kütüphane: 
+# https://pypi.org/project/pyModbusTCP/
 from pyModbusTCP.client import ModbusClient
 
 ayrac1 = "=========="
