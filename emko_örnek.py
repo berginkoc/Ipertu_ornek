@@ -25,7 +25,7 @@ def emko_uzak_io_ornek_program():
             # Modbus port ve Device ID(Unit ID) ayarlarının atanması:
             c.port = 3501
 
-            # Modbus device id ayarlarının yapılması - Output modülü
+            # Modbus device id ayarlarının yapılması - Input modülü
             c.unit_id = 2
 
             # https://www.emkoelektronik.com.tr/tr/urunler/16-xdijital-girisli-genisleme-modulu
